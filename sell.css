@@ -1,0 +1,48 @@
+.p_sell{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 54px;
+ font-weight: 400;
+ margin-top: 150px;
+}
+.p_sell2{
+ margin-left: 520px;
+ margin-top: 200px;
+ color: #212806;
+ font-family: Roboto;
+ font-size: 15px;
+ font-weight: 400;
+ border-radius: 40px;
+ border: 1px solid #212806;
+ width: 201px;
+ height: 47px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+@media(max-width:768px){
+    .p_sell{
+    color: #212806;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 150px;
+    }
+    .p_sell2{
+    margin-left: 300px;
+    margin-top: 200px;
+    color: #212806;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 40px;
+    border: 1px solid #212806;
+    width: 201px;
+    height: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+}

@@ -1,0 +1,25 @@
+.header_content{
+ display: flex;
+ justify-content: space-between;
+}
+.header_info{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-left: 29px;
+}
+.header_info2{
+ display: flex;
+ justify-content: space-between;
+ margin-right: 45px;
+}
+.p_header{
+ color: #222;
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 400;
+ margin-left: 57px;
+}
+.img_header{
+ margin-left: 29px;
+}

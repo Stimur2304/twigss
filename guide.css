@@ -1,0 +1,43 @@
+.guide_content{
+ display: flex;
+ margin-left: 27px;
+}
+.p_guide1{
+ color: #212806;
+ font-family: Roboto;
+ font-size: 41px;
+ font-weight: 400;
+}
+.p_guide2{
+ color: rgba(33, 40, 6, 0.80);
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 700;
+}
+.p_guide3{
+ color: rgba(33, 40, 6, 0.80);
+ font-family: Roboto;
+ font-size: 16px;
+ font-weight: 400;
+}
+.p_guide4{
+ color: #212806;
+ font-family: Roboto;
+ font-size: 15px;
+ font-weight: 400;
+ border-radius: 40px;
+ border: 1px solid #212806;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 192px;
+ height: 47px;
+ margin-top: 103px;
+ cursor: pointer;
+}
+@media(max-width:768px){
+    .img_guide{
+        height: 400px;
+        width: 400px;
+    }
+}

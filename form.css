@@ -1,0 +1,15 @@
+form{
+ text-align: center;
+ margin-top: 10px;
+}
+.p_form{
+ font-size: 20px;
+ font-family: Roboto;
+ text-align: center;
+}
+.p_form3{ 
+ font-size: 25px;
+ font-family: Roboto;
+ color: red;
+ text-align: center;
+}

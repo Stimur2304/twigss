@@ -1,0 +1,52 @@
+body{
+ background-color: whitesmoke;
+}
+.p_cardd{
+ font-size: 25px;
+ color: red;
+ font-family: Roboto;
+ text-align: center;
+}
+.p_cardd2{
+ font-size: 20px;
+ font-family: Roboto;
+ text-align: center;
+ margin-top: 20px;
+}
+.cards{
+ display: flex;
+ justify-content: space-between;
+}
+.card{
+ margin-left: 10px;
+}
+.one{
+ margin-right: 10px;
+}
+.p_cardd3{
+ margin-left: 80px;
+ font-size: 18px;
+ font-family: Roboto;
+}
+.cards1{
+ display: flex;
+ justify-content: space-between;
+}
+.card1{
+ margin-left: 10px;
+}
+.img1{
+ height: 150px;
+ width: 250px;
+}
+.img2{
+ height: 190px;
+ width: 150px;
+}
+.cards2{
+ display: flex;
+ justify-content: space-between;
+}
+.card2{
+ margin-left: 10px;
+}

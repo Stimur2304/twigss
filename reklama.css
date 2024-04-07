@@ -1,0 +1,35 @@
+body{
+ background-color: black;
+}
+.p_rek{
+ color: red;
+ font-size: 50px;
+ text-align: center;
+ font-family: Roboto;
+}
+.p_rek2{
+ color: white;
+ font-size: 25px;
+ font-family: Roboto;
+ text-align: center;
+}
+.p_rek4{
+ color: white;
+ font-size: 25px;
+ font-family: Roboto;
+ margin-top: 40px;
+ border-radius: 3px;
+ border: 1px solid white;
+ width: 150px;
+ height: 50px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-left: 600px;
+}
+@media(max-width:768px){
+ .p_rek4{
+  margin-left: 300px;
+ }
+}
+   

@@ -1,0 +1,34 @@
+.rate{
+ background: #F5EEE6;;
+}
+.rate_content{
+ display: flex;
+ justify-content: space-between;
+}
+.rate_img{
+ height: 800px;
+ width: 720px;
+}
+.p_rate{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 43px;
+ font-weight: 400;
+ margin-top: 78px;
+ height: 420px;
+ width: 420px;
+ margin-right: 75px;
+}
+@media(max-width:768px){
+    .rate_img{
+        height: 450px;
+        width: 370px;
+    }
+    .p_rate{
+        color: #212806;
+        font-family: Roboto;
+        font-size: 33px;
+        font-weight: 400;
+    }
+}

@@ -1,0 +1,26 @@
+.footer{
+ background: #212806;
+ position: relative;
+}
+.footer_img{
+ left: 50%;
+}
+.text1{
+ display: flex;
+ justify-content: space-around;
+}
+.p_footer{
+ color: rgba(252, 248, 243, 0.80);
+ font-family: Roboto;
+ font-size: 18px;
+ font-weight: 400;
+}
+.p_footer1{
+ color: rgba(252, 248, 243, 0.80);
+ font-family: Roboto;
+ font-size: 18px;
+ font-weight: 400;
+ display: flex;
+ justify-content: center;
+ margin-top: 20px;
+}

@@ -1,0 +1,77 @@
+.postcard{
+ margin-top: 222px;
+}
+.post_content{
+ margin-left: 72px;
+}
+.post_text{
+ margin-left: 420px;
+
+}
+.p_post{
+ color: red;
+ font-family: Roboto;
+ font-size: 40px;
+ font-weight: 400;
+}
+.p_post2{
+ color: rgba(33, 40, 6, 0.80);
+ font-family: Roboto;
+ font-size: 15px;
+ font-weight: 400;
+ width: 309px;
+ height: 58px;
+}
+.cards{
+ display: flex;
+ justify-content: space-between;
+}
+.p_card1{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 12px;
+ font-weight: 400;
+ text-transform: uppercase;
+}
+.p_card2{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 23px;
+ font-weight: 400;
+ text-transform: uppercase;
+}
+.p_card3{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 15px;
+ font-weight: 400;
+ text-transform: uppercase;
+}
+.p_post3{
+ color: #FCF8F3;
+ font-family: Roboto;
+ font-size: 15px;
+ font-weight: 400;
+ border-radius: 40px;
+ border: 1px solid #212806;
+ background: #212806;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 229px;
+ height: 47px;
+}
+@media(max-width:768px){
+    .post_text{
+    margin-left: 180px;
+    }
+    .card{
+    margin-right: 50px;    
+    }
+    .p_card2{
+    font-size: 16px;
+    }
+}

@@ -1,0 +1,46 @@
+.p_about{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 53px;
+ font-weight: 400;
+ display: flex;
+ justify-content: center;
+
+}
+.about_cards{
+ display: flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+}
+.p_card4{
+ color: #212806;
+ text-align: center;
+ font-family: Roboto;
+ font-size: 25px;
+ font-weight: 400;
+ width: 220px;
+}
+.p_about2{
+ color: #FCF8F3;
+ font-family: Roboto;
+ font-size: 15px;
+ font-weight: 400;
+ border-radius: 40px;
+ border: 1px solid #212806;
+ background: #212806;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 175px;
+ height: 47px;
+ cursor: pointer;
+}
+@media(max-width:768px){
+    .about_cards{
+        margin-left: 110px;
+    }
+    .p_about2{
+        margin-left: 330px;
+    }
+}
